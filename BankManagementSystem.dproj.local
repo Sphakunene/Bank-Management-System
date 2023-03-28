@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/16 09:24:33.000.006,=C:\Users\Geeks4Learning\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/16 09:56:30.000.155,=C:\Users\Geeks4Learning\OneDrive\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/03/27 14:00:29.426,=C:\Users\Geeks4Learning\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/27 14:00:59.421,C:\Users\Geeks4Learning\OneDrive\Desktop\Delphi\proj\Unit2.pas=C:\Users\Geeks4Learning\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/27 14:00:59.421,C:\Users\Geeks4Learning\OneDrive\Desktop\Delphi\proj\Unit2.dfm=C:\Users\Geeks4Learning\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/03/27 14:01:19.760,C:\Users\Geeks4Learning\OneDrive\Desktop\Delphi\proj\startForm.dproj=C:\Users\Geeks4Learning\OneDrive\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2023/03/27 14:01:38.304,C:\Users\Geeks4Learning\OneDrive\Desktop\Delphi\proj\BankManagementSystem.dproj=C:\Users\Geeks4Learning\OneDrive\Desktop\Delphi\proj\startForm.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
